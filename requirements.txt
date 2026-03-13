@@ -1,0 +1,3 @@
+# No third-party dependencies yet.
+# Add packages here as needed, e.g.:
+# colorama==0.4.6
