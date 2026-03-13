@@ -10,10 +10,12 @@ from core.utils import clear_screen
 
 # ── Import game classes here ─────────────────────────────────────────────────
 from game_arcadia.games.number_guessing import NumberGuessingGame
+from game_arcadia.games.flappy_bird import FlappyBirdGame
 
 # ── Register games here (order = menu order) ─────────────────────────────────
 GAMES = [
     NumberGuessingGame(),
+    FlappyBirdGame(),
     # Add new games below, e.g.:
     # RockPaperScissorsGame(),
     # TicTacToeGame(),
