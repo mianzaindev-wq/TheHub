@@ -1,6 +1,6 @@
 # 🎮 GameHub
 
-A scalable, modular Python application that brings together multiple interactive experiences under one terminal-based menu
+A scalable, modular Python application that brings together multiple interactive experiences under one terminal-based menu.
 
 ## ✨ Features
 
